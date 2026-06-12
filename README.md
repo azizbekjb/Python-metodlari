@@ -13,7 +13,7 @@ Har bir metod sodda va tushunarli misollar yordamida tushuntirilgan.
 
 ## Repo kimlar uchun?
 - Python dasturlash tilini o'rganayotgan, o'rgangan yoki bilimini oshirmoqchi bo'lganlar uchun.
-- Backend yoki Sun'iy intelekt mutaxasislar uchu.
+- Backend yoki Sun'iy intelekt mutaxasislari uchun.
 
 ## Repo qanday tuzilish haqida.
 
